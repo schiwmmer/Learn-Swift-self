@@ -3,3 +3,5 @@
 import Cocoa
 
 
+hello = 5
+hello
